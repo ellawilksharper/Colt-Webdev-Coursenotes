@@ -12,9 +12,9 @@ HTML & CSS
 
 Javascript 
 - Prompt Exercise using prompt() and console.log()
-- For Loop Exercises
-- While Loop Exercises
-- Using Functions Problem Set
+- For Loop Problem Set - > https://codepen.io/ellawh/pen/PoZKNOb
+- While Loop Problem Set - > https://codepen.io/ellawh/pen/rNxzOqx
+- Functions Problem Set  - > https://codepen.io/ellawh/pen/jOWLyzR
 - Todo List using Arrays
-- Array Problem Set
+- Array Problem Set - > https://codepen.io/ellawh/pen/ExPvQap
 - Movie Database, practice with creating Objects
