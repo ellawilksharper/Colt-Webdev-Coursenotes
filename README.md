@@ -17,4 +17,3 @@ Javascript
 - Functions Problem Set  - > https://codepen.io/ellawh/pen/jOWLyzR
 - Todo List using Arrays
 - Array Problem Set - > https://codepen.io/ellawh/pen/ExPvQap
-- Movie Database, practice with creating Objects
